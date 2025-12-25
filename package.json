@@ -1,0 +1,25 @@
+{
+  "name": "notas-enem",
+  "version": "0.0.1",
+  "description": "backend api for web application",
+  "main": "index.ts",
+  "repository": "https://github.com/jfelipesouza/api-enem-cutoff-averages",
+  "author": "Felipe Souza <j.felipe.dev.18@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "tsc index.ts"
+  },
+  "dependencies": {
+    "@prisma/client": "^7.2.0",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "swagger-ui-express": "^5.0.1"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.19",
+    "@types/express": "^5.0.6",
+    "@types/node": "^25.0.3",
+    "typescript": "^5.9.3"
+  }
+}
