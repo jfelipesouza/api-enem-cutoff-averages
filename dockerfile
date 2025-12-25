@@ -5,11 +5,6 @@ WORKDIR /app
 COPY package.json yarn.lock ./
 RUN yarn install
 
-COPY . .
+EXPOSE 3000
 
-RUN yarn prisma generate
-RUN yarn build
-
-EXPOSE 3333
-
-CMD ["node", "dist/server.js"]
+CMD ["yarn", "dev"]

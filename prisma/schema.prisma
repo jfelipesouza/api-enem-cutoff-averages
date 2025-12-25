@@ -12,3 +12,52 @@ generator client {
 datasource db {
   provider = "postgresql"
 }
+
+model Course {
+  id          String             @id @default(uuid())
+  name        String
+  cutOffs     CutOff[]
+  examWeights CourseExamWeight[]
+  createdAt   DateTime           @default(now())
+  updatedAt   DateTime           @updatedAt
+}
+
+model CutOff {
+  id         String           @id @default(uuid())
+  courseId   String
+  year       Int
+  course     Course           @relation(fields: [courseId], references: [id])
+  categories CutOffCategory[]
+}
+
+model CutOffCategory {
+  id       String @id @default(uuid())
+  cutOffId String
+  name     String // ex: Ampla Concorrência, Cotas PCD
+  score    Float
+  cutOff   CutOff @relation(fields: [cutOffId], references: [id])
+}
+
+model ExamArea {
+  id      String             @id @default(uuid())
+  name    String // Linguagens, Matemática, Natureza, Humanas, Redação
+  weights CourseExamWeight[]
+}
+
+model CourseExamWeight {
+  id         String @id @default(uuid())
+  courseId   String
+  examAreaId String
+  weight     Float
+
+  course   Course   @relation(fields: [courseId], references: [id])
+  examArea ExamArea @relation(fields: [examAreaId], references: [id])
+
+  @@unique([courseId, examAreaId])
+}
+
+model Modalities {
+  id   String @unique @default(uuid())
+  name String
+  note Float
+}

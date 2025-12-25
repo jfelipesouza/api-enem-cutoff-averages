@@ -1,0 +1,14 @@
+import { Router } from "express";
+import type { Request, Response } from "express";
+
+const router = Router();
+
+router.get("/", (req: Request, res: Response) => {
+  res.status(200).send({
+    message: "Server is online",
+    code: 200,
+    status: "SUCCESSS",
+  });
+});
+
+export { router };
