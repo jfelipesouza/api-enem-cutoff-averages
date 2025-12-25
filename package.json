@@ -7,13 +7,19 @@
   "author": "Felipe Souza <j.felipe.dev.18@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "dev": "tsc index.ts"
+    "start": "node dist/index.js",
+    "dev": "tsx watch --no-cache src/index.ts",
+    "studio": "npx prisma studio",
+    "build": "tsup src",
+    "generate": "npx prisma generate"
   },
   "dependencies": {
+    "@prisma/adapter-pg": "^7.2.0",
     "@prisma/client": "^7.2.0",
     "cors": "^2.8.5",
     "dotenv": "^17.2.3",
     "express": "^5.2.1",
+    "pg": "^8.16.3",
     "swagger-ui-express": "^5.0.1"
   },
   "devDependencies": {
@@ -21,6 +27,7 @@
     "@types/dotenv": "^8.2.3",
     "@types/express": "^5.0.6",
     "@types/node": "^25.0.3",
+    "@types/pg": "^8.16.0",
     "prisma": "^7.2.0",
     "tsup": "^8.5.1",
     "tsx": "^4.21.0",
