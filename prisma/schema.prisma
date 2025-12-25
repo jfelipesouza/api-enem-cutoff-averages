@@ -22,13 +22,23 @@ model University {
 }
 
 model Course {
-  id           String      @id @default(uuid())
-  name         String
-  cutOffs      CutOff[]
-  createdAt    DateTime    @default(now())
-  updatedAt    DateTime    @updatedAt
-  university   University? @relation(fields: [universityId], references: [id])
-  universityId String?
+  id                 String      @id @default(uuid())
+  name               String
+  cutOffs            CutOff[]
+  redacao_weight     Float
+  nature_weight      Float
+  human_weight       Float
+  language_weight    Float
+  math_weight        Float
+  redacao_min_point  Float?      @default(400)
+  human_min_point    Float?      @default(400)
+  language_min_point Float?      @default(400)
+  math_min_point     Float?      @default(400)
+  nature_min_point   Float?      @default(400)
+  createdAt          DateTime    @default(now())
+  updatedAt          DateTime    @updatedAt
+  university         University? @relation(fields: [universityId], references: [id])
+  universityId       String?
 }
 
 model CutOff {
@@ -37,6 +47,9 @@ model CutOff {
   year       Int
   course     Course           @relation(fields: [courseId], references: [id])
   categories CutOffCategory[]
+
+  // ADICIONE ESTA LINHA: Garante unicidade composta
+  @@unique([courseId, year])
 }
 
 model CutOffCategory {
@@ -44,5 +57,6 @@ model CutOffCategory {
   cutOffId String
   name     String // ex: Ampla Concorrência, Cotas PCD
   score    Float
-  cutOff   CutOff @relation(fields: [cutOffId], references: [id])
+  // RECOMENDAÇÃO: Adicione onDelete: Cascade aqui
+  cutOff   CutOff @relation(fields: [cutOffId], references: [id], onDelete: Cascade)
 }

@@ -1,5 +1,7 @@
+import dotenv from "dotenv";
 import { server } from "./config/server";
 
+dotenv.config();
 const port = process.env.PORT;
 
 server.listen(port, () => {

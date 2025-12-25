@@ -1,0 +1,931 @@
+{
+  "data": [
+    {
+      "name": "ADMINISTRAÇÃO - Matutino",
+      "redacao": 1.5,
+      "math": 1.5,
+      "language": 2.0,
+      "human": 2.5,
+      "nature": 1.0,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "ADMINISTRAÇÃO - Noturno",
+      "redacao": 1.5,
+      "math": 1.5,
+      "language": 2.0,
+      "human": 2.5,
+      "nature": 1.0,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "ARQUEOLOGIA",
+      "redacao": 1.5,
+      "math": 1.0,
+      "language": 2.0,
+      "human": 3.5,
+      "nature": 1.0,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "BIBLIOTECONOMIA E DOCUMENTAÇÃO",
+      "redacao": 1.5,
+      "math": 1.0,
+      "language": 3.0,
+      "human": 2.5,
+      "nature": 1.0,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "CIÊNCIAS CONTÁBEIS",
+      "redacao": 2.0,
+      "math": 2.5,
+      "language": 2.0,
+      "human": 2.5,
+      "nature": 1.0,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "CIÊNCIAS ECONÔMICAS",
+      "redacao": 2.0,
+      "math": 3.0,
+      "language": 2.0,
+      "human": 3.0,
+      "nature": 1.0,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "CINEMA E AUDIOVISUAL",
+      "redacao": 2.0,
+      "math": 1.0,
+      "language": 3.5,
+      "human": 2.5,
+      "nature": 1.0,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "DESIGN",
+      "redacao": 2.0,
+      "math": 2.0,
+      "language": 2.5,
+      "human": 2.5,
+      "nature": 1.0,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "DIREITO - Matutino",
+      "redacao": 2.0,
+      "math": 1.0,
+      "language": 3.0,
+      "human": 3.0,
+      "nature": 1.0,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "DIREITO - Noturno",
+      "redacao": 2.0,
+      "math": 1.0,
+      "language": 3.0,
+      "human": 3.0,
+      "nature": 1.0,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "HOTELARIA",
+      "redacao": 2.0,
+      "math": 1.0,
+      "language": 2.5,
+      "human": 3.0,
+      "nature": 1.5,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "JORNALISMO",
+      "redacao": 3.0,
+      "math": 1.0,
+      "language": 3.0,
+      "human": 2.0,
+      "nature": 1.0,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "LETRAS - LIBRAS",
+      "redacao": 2.0,
+      "math": 1.0,
+      "language": 3.5,
+      "human": 2.5,
+      "nature": 1.0,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "LETRAS - LÍNGUA PORTUGUESA",
+      "redacao": 2.5,
+      "math": 1.0,
+      "language": 3.5,
+      "human": 2.0,
+      "nature": 1.0,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "LETRAS - PORTUGUÊS E ESPANHOL - Vespertino",
+      "redacao": 2.5,
+      "math": 1.0,
+      "language": 3.5,
+      "human": 2.0,
+      "nature": 1.0,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "LETRAS - PORTUGUÊS E ESPANHOL - Noturno",
+      "redacao": 2.5,
+      "math": 1.0,
+      "language": 3.5,
+      "human": 2.0,
+      "nature": 1.0,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "LETRAS - PORTUGUÊS E FRANCÊS",
+      "redacao": 2.5,
+      "math": 1.0,
+      "language": 3.5,
+      "human": 2.0,
+      "nature": 1.0,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "LETRAS - PORTUGUÊS E INGLÊS - Vespertino",
+      "redacao": 2.5,
+      "math": 1.0,
+      "language": 3.5,
+      "human": 2.0,
+      "nature": 1.0,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "LETRAS - PORTUGUÊS E INGLÊS - Noturno",
+      "redacao": 2.5,
+      "math": 1.0,
+      "language": 3.5,
+      "human": 2.0,
+      "nature": 1.0,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "MUSEOLOGIA",
+      "redacao": 2.0,
+      "math": 1.0,
+      "language": 2.5,
+      "human": 3.5,
+      "nature": 1.0,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "MÚSICA",
+      "redacao": 2.5,
+      "math": 1.0,
+      "language": 3.0,
+      "human": 2.5,
+      "nature": 1.0,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "PUBLICIDADE E PROPAGANDA",
+      "redacao": 2.5,
+      "math": 1.0,
+      "language": 3.5,
+      "human": 2.0,
+      "nature": 1.0,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "SECRETARIADO EXECUTIVO",
+      "redacao": 1.5,
+      "math": 1.0,
+      "language": 3.5,
+      "human": 3.0,
+      "nature": 1.0,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "SERVIÇO SOCIAL - Matutino",
+      "redacao": 2.0,
+      "math": 1.5,
+      "language": 2.0,
+      "human": 3.5,
+      "nature": 1.0,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "SERVIÇO SOCIAL - Noturno",
+      "redacao": 2.0,
+      "math": 1.5,
+      "language": 2.0,
+      "human": 3.5,
+      "nature": 1.0,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "TEATRO",
+      "redacao": 2.0,
+      "math": 1.0,
+      "language": 3.5,
+      "human": 2.5,
+      "nature": 1.0,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "TURISMO",
+      "redacao": 2.0,
+      "math": 1.0,
+      "language": 2.5,
+      "human": 3.0,
+      "nature": 1.5,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "CIÊNCIAS BIOLÓGICAS - Matutino",
+      "redacao": 2.0,
+      "math": 1.5,
+      "language": 2.0,
+      "human": 1.5,
+      "nature": 3.0,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "CIÊNCIAS BIOLÓGICAS - Noturno",
+      "redacao": 2.0,
+      "math": 1.5,
+      "language": 2.0,
+      "human": 1.5,
+      "nature": 3.0,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "CIÊNCIAS BIOLÓGICAS - Vespertino",
+      "redacao": 2.0,
+      "math": 1.5,
+      "language": 2.0,
+      "human": 1.5,
+      "nature": 3.0,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "EDUCAÇÃO FÍSICA - Matutino",
+      "redacao": 2.0,
+      "math": 1.5,
+      "language": 2.5,
+      "human": 2.0,
+      "nature": 2.0,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "EDUCAÇÃO FÍSICA - Noturno",
+      "redacao": 2.0,
+      "math": 1.5,
+      "language": 2.5,
+      "human": 2.0,
+      "nature": 2.0,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "ENFERMAGEM",
+      "redacao": 2.5,
+      "math": 1.5,
+      "language": 2.0,
+      "human": 1.5,
+      "nature": 2.5,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "FARMÁCIA - Vespertino",
+      "redacao": 2.5,
+      "math": 1.5,
+      "language": 2.0,
+      "human": 1.5,
+      "nature": 2.5,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "FARMÁCIA - Noturno",
+      "redacao": 2.5,
+      "math": 1.5,
+      "language": 2.0,
+      "human": 1.5,
+      "nature": 2.5,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "FISIOTERAPIA",
+      "redacao": 2.0,
+      "math": 1.0,
+      "language": 2.0,
+      "human": 2.0,
+      "nature": 3.0,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "FONOAUDIOLOGIA",
+      "redacao": 2.0,
+      "math": 1.5,
+      "language": 2.5,
+      "human": 2.0,
+      "nature": 2.0,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "MEDICINA",
+      "redacao": 2.0,
+      "math": 1.0,
+      "language": 2.0,
+      "human": 1.5,
+      "nature": 3.5,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "NUTRIÇÃO",
+      "redacao": 2.0,
+      "math": 1.0,
+      "language": 2.0,
+      "human": 2.0,
+      "nature": 3.0,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "ODONTOLOGIA",
+      "redacao": 2.0,
+      "math": 1.0,
+      "language": 2.0,
+      "human": 1.5,
+      "nature": 3.5,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "ESTATÍSTICA",
+      "redacao": 1.5,
+      "math": 4.0,
+      "language": 1.5,
+      "human": 1.0,
+      "nature": 2.0,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "FÍSICA - LICENCIATURA - Vespertino",
+      "redacao": 1.5,
+      "math": 3.0,
+      "language": 1.5,
+      "human": 1.0,
+      "nature": 3.0,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "FÍSICA - LICENCIATURA - Noturno",
+      "redacao": 1.5,
+      "math": 3.0,
+      "language": 1.5,
+      "human": 1.0,
+      "nature": 3.0,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "FÍSICA - BACHARELADO - HABILITAÇÃO EM ASTRONOMIA",
+      "redacao": 1.5,
+      "math": 3.0,
+      "language": 1.5,
+      "human": 1.0,
+      "nature": 3.0,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "FÍSICA - BACHARELADO - HABILITAÇÃO EM FÍSICA MÉDICA",
+      "redacao": 1.5,
+      "math": 3.0,
+      "language": 1.5,
+      "human": 1.0,
+      "nature": 3.0,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "GEOGRAFIA - BACHARELADO",
+      "redacao": 2.0,
+      "math": 1.5,
+      "language": 2.0,
+      "human": 3.0,
+      "nature": 1.5,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "GEOGRAFIA - LICENCIATURA - Matutino",
+      "redacao": 2.0,
+      "math": 1.5,
+      "language": 2.0,
+      "human": 3.0,
+      "nature": 1.5,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "GEOGRAFIA - LICENCIATURA - Noturno",
+      "redacao": 2.0,
+      "math": 1.5,
+      "language": 2.0,
+      "human": 3.0,
+      "nature": 1.5,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "MATEMÁTICA - BACHARELADO",
+      "redacao": 1.5,
+      "math": 4.0,
+      "language": 1.5,
+      "human": 1.0,
+      "nature": 2.0,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "MATEMÁTICA - LICENCIATURA - Matutino",
+      "redacao": 1.5,
+      "math": 4.0,
+      "language": 1.5,
+      "human": 1.0,
+      "nature": 2.0,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "MATEMÁTICA - LICENCIATURA - Noturno",
+      "redacao": 1.5,
+      "math": 4.0,
+      "language": 1.5,
+      "human": 1.0,
+      "nature": 2.0,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "QUÍMICA - LICENCIATURA - Vespertino",
+      "redacao": 1.5,
+      "math": 2.5,
+      "language": 1.5,
+      "human": 1.0,
+      "nature": 3.5,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "QUÍMICA - LICENCIATURA - Noturno",
+      "redacao": 1.5,
+      "math": 2.5,
+      "language": 1.5,
+      "human": 1.0,
+      "nature": 3.5,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "QUÍMICA - BACHARELADO",
+      "redacao": 1.5,
+      "math": 2.5,
+      "language": 1.5,
+      "human": 1.0,
+      "nature": 3.5,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "QUÍMICA TECNOLÓGICA",
+      "redacao": 1.5,
+      "math": 2.5,
+      "language": 1.5,
+      "human": 1.0,
+      "nature": 3.5,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "CIÊNCIA DA COMPUTAÇÃO",
+      "redacao": 2.0,
+      "math": 4.0,
+      "language": 2.0,
+      "human": 1.0,
+      "nature": 1.0,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "ENGENHARIA AGRONÔMICA",
+      "redacao": 2.0,
+      "math": 2.0,
+      "language": 1.0,
+      "human": 1.0,
+      "nature": 4.0,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "ENGENHARIA AMBIENTAL E SANITÁRIA",
+      "redacao": 2.0,
+      "math": 3.0,
+      "language": 1.5,
+      "human": 1.0,
+      "nature": 2.5,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "ENGENHARIA CIVIL",
+      "redacao": 2.0,
+      "math": 4.0,
+      "language": 1.5,
+      "human": 1.0,
+      "nature": 1.5,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "ENGENHARIA DE ALIMENTOS",
+      "redacao": 2.0,
+      "math": 2.5,
+      "language": 1.5,
+      "human": 1.5,
+      "nature": 2.5,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "ENGENHARIA DE COMPUTAÇÃO",
+      "redacao": 2.0,
+      "math": 4.0,
+      "language": 2.0,
+      "human": 1.0,
+      "nature": 1.0,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "ENGENHARIA DE MATERIAIS",
+      "redacao": 2.0,
+      "math": 3.0,
+      "language": 1.5,
+      "human": 1.0,
+      "nature": 2.5,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "ENGENHARIA DE PESCA",
+      "redacao": 2.0,
+      "math": 2.0,
+      "language": 1.5,
+      "human": 1.5,
+      "nature": 3.0,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "ENGENHARIA DE PETRÓLEO",
+      "redacao": 2.0,
+      "math": 3.0,
+      "language": 1.5,
+      "human": 1.0,
+      "nature": 2.5,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "ENGENHARIA DE PRODUÇÃO",
+      "redacao": 2.0,
+      "math": 3.5,
+      "language": 1.5,
+      "human": 1.5,
+      "nature": 1.5,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "ENGENHARIA ELÉTRICA",
+      "redacao": 2.0,
+      "math": 3.5,
+      "language": 1.5,
+      "human": 1.0,
+      "nature": 2.0,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "ENGENHARIA FLORESTAL",
+      "redacao": 2.0,
+      "math": 2.0,
+      "language": 1.5,
+      "human": 1.5,
+      "nature": 3.0,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "ENGENHARIA MECÂNICA",
+      "redacao": 2.0,
+      "math": 3.5,
+      "language": 1.5,
+      "human": 1.0,
+      "nature": 2.0,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "ENGENHARIA QUÍMICA",
+      "redacao": 2.0,
+      "math": 3.0,
+      "language": 1.5,
+      "human": 1.0,
+      "nature": 2.5,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "GEOLOGIA",
+      "redacao": 2.0,
+      "math": 2.5,
+      "language": 1.5,
+      "human": 1.0,
+      "nature": 3.0,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "SISTEMAS DE INFORMAÇÃO",
+      "redacao": 2.0,
+      "math": 3.5,
+      "language": 2.5,
+      "human": 1.0,
+      "nature": 1.0,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "ZOOTECNIA",
+      "redacao": 2.0,
+      "math": 2.0,
+      "language": 1.5,
+      "human": 1.5,
+      "nature": 3.0,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "PEDAGOGIA - Matutino",
+      "redacao": 2.0,
+      "math": 1.0,
+      "language": 3.0,
+      "human": 3.0,
+      "nature": 1.0,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "PEDAGOGIA - Vespertino",
+      "redacao": 2.0,
+      "math": 1.0,
+      "language": 3.0,
+      "human": 3.0,
+      "nature": 1.0,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "PEDAGOGIA - Noturno",
+      "redacao": 2.0,
+      "math": 1.0,
+      "language": 3.0,
+      "human": 3.0,
+      "nature": 1.0,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "PSICOLOGIA",
+      "redacao": 2.5,
+      "math": 1.0,
+      "language": 2.0,
+      "human": 3.0,
+      "nature": 1.5,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "ENFERMAGEM (CAMPUS LAGARTO)",
+      "redacao": 2.5,
+      "math": 1.5,
+      "language": 2.0,
+      "human": 1.5,
+      "nature": 2.5,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "FARMÁCIA (CAMPUS LAGARTO)",
+      "redacao": 2.5,
+      "math": 1.5,
+      "language": 2.0,
+      "human": 1.5,
+      "nature": 2.5,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "FISIOTERAPIA (CAMPUS LAGARTO)",
+      "redacao": 2.0,
+      "math": 1.0,
+      "language": 2.0,
+      "human": 2.0,
+      "nature": 3.0,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "FONOAUDIOLOGIA (CAMPUS LAGARTO)",
+      "redacao": 2.0,
+      "math": 1.5,
+      "language": 2.5,
+      "human": 2.0,
+      "nature": 2.0,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "MEDICINA (CAMPUS LAGARTO)",
+      "redacao": 2.0,
+      "math": 1.0,
+      "language": 2.0,
+      "human": 1.5,
+      "nature": 3.5,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "NUTRIÇÃO (CAMPUS LAGARTO)",
+      "redacao": 2.0,
+      "math": 1.0,
+      "language": 2.0,
+      "human": 2.0,
+      "nature": 3.0,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "ODONTOLOGIA (CAMPUS LAGARTO)",
+      "redacao": 2.0,
+      "math": 1.0,
+      "language": 2.0,
+      "human": 1.5,
+      "nature": 3.5,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "TERAPIA OCUPACIONAL (CAMPUS LAGARTO)",
+      "redacao": 2.0,
+      "math": 1.0,
+      "language": 2.0,
+      "human": 2.5,
+      "nature": 2.5,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "ADMINISTRAÇÃO (CAMPUS ITABAIANA)",
+      "redacao": 1.5,
+      "math": 1.5,
+      "language": 2.0,
+      "human": 2.5,
+      "nature": 1.0,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "CIÊNCIAS BIOLÓGICAS (CAMPUS ITABAIANA)",
+      "redacao": 2.0,
+      "math": 1.5,
+      "language": 2.0,
+      "human": 1.5,
+      "nature": 3.0,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "CIÊNCIAS CONTÁBEIS (CAMPUS ITABAIANA)",
+      "redacao": 2.0,
+      "math": 2.5,
+      "language": 2.0,
+      "human": 2.5,
+      "nature": 1.0,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "FÍSICA (CAMPUS ITABAIANA)",
+      "redacao": 1.5,
+      "math": 3.0,
+      "language": 1.5,
+      "human": 1.0,
+      "nature": 3.0,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "GEOGRAFIA (CAMPUS ITABAIANA)",
+      "redacao": 2.0,
+      "math": 1.5,
+      "language": 2.0,
+      "human": 3.0,
+      "nature": 1.5,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "LETRAS - LÍNGUA PORTUGUESA (CAMPUS ITABAIANA)",
+      "redacao": 2.5,
+      "math": 1.0,
+      "language": 3.5,
+      "human": 2.0,
+      "nature": 1.0,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "MATEMÁTICA (CAMPUS ITABAIANA)",
+      "redacao": 1.5,
+      "math": 4.0,
+      "language": 1.5,
+      "human": 1.0,
+      "nature": 2.0,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "PEDAGOGIA (CAMPUS ITABAIANA)",
+      "redacao": 2.0,
+      "math": 1.0,
+      "language": 3.0,
+      "human": 3.0,
+      "nature": 1.0,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "QUÍMICA (CAMPUS ITABAIANA)",
+      "redacao": 1.5,
+      "math": 2.5,
+      "language": 1.5,
+      "human": 1.0,
+      "nature": 3.5,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "SISTEMAS DE INFORMAÇÃO (CAMPUS ITABAIANA)",
+      "redacao": 2.0,
+      "math": 3.5,
+      "language": 2.5,
+      "human": 1.0,
+      "nature": 1.0,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "ENGENHARIA AGRONÔMICA (CAMPUS SERTÃO)",
+      "redacao": 2.0,
+      "math": 2.0,
+      "language": 1.0,
+      "human": 1.0,
+      "nature": 4.0,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "MEDICINA VETERINÁRIA (CAMPUS SERTÃO)",
+      "redacao": 2.0,
+      "math": 2.0,
+      "language": 1.5,
+      "human": 1.5,
+      "nature": 3.0,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "ZOOTECNIA (CAMPUS SERTÃO)",
+      "redacao": 2.0,
+      "math": 2.0,
+      "language": 1.5,
+      "human": 1.5,
+      "nature": 3.0,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "AGROINDÚSTRIA (CAMPUS SERTÃO)",
+      "redacao": 2.0,
+      "math": 2.0,
+      "language": 1.5,
+      "human": 1.5,
+      "nature": 3.0,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "EDUCAÇÃO DO CAMPO (CAMPUS SERTÃO)",
+      "redacao": 2.0,
+      "math": 1.0,
+      "language": 2.0,
+      "human": 3.0,
+      "nature": 2.0,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "ARQUITETURA E URBANISMO (CAMPUS LARANJEIRAS)",
+      "redacao": 2.5,
+      "math": 2.5,
+      "language": 2.0,
+      "human": 2.0,
+      "nature": 1.0,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "DANÇA (CAMPUS LARANJEIRAS)",
+      "redacao": 2.0,
+      "math": 1.0,
+      "language": 3.5,
+      "human": 2.5,
+      "nature": 1.0,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "MUSEOLOGIA (CAMPUS LARANJEIRAS)",
+      "redacao": 2.0,
+      "math": 1.0,
+      "language": 2.5,
+      "human": 3.5,
+      "nature": 1.0,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    },
+    {
+      "name": "TEATRO (CAMPUS LARANJEIRAS)",
+      "redacao": 2.0,
+      "math": 1.0,
+      "language": 3.5,
+      "human": 2.5,
+      "nature": 1.0,
+      "universityId": "644cfe95-deef-4319-8b92-66001815fddb"
+    }
+  ]
+}

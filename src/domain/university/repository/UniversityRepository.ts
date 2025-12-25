@@ -8,26 +8,27 @@ class UniversityRepository {
       select: {
         id: true,
         name: true,
+        _count: { select: { courses: true } },
       },
     });
   }
+
   async create(name: string): Promise<boolean> {
     const hasUniversity = await prisma.university.findFirst({
       where: {
-        name,
+        name: name.toUpperCase(),
       },
     });
-    if (hasUniversity) {
-      return false;
-    }
-    const newUniversity = await prisma.university.create({
-      data: {
-        name: name.toLocaleUpperCase(),
-      },
-    });
-    if (newUniversity) {
+
+    if (!hasUniversity) {
+      await prisma.university.create({
+        data: {
+          name: name.toUpperCase(),
+        },
+      });
       return true;
     }
+
     return false;
   }
 }

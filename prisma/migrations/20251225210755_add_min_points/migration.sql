@@ -1,0 +1,6 @@
+-- AlterTable
+ALTER TABLE "Course" ADD COLUMN     "human_min_point" DOUBLE PRECISION DEFAULT 400,
+ADD COLUMN     "language_min_point" DOUBLE PRECISION DEFAULT 400,
+ADD COLUMN     "math_min_point" DOUBLE PRECISION DEFAULT 400,
+ADD COLUMN     "nature_min_point" DOUBLE PRECISION DEFAULT 400,
+ADD COLUMN     "redacao_min_point" DOUBLE PRECISION DEFAULT 400;

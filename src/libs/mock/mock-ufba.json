@@ -1,0 +1,643 @@
+{
+  "data": [
+    {
+      "name": "ADMINISTRAÇÃO",
+      "redacao": 2.0,
+      "math": 2.0,
+      "language": 2.0,
+      "human": 3.0,
+      "nature": 1.0,
+      "universityId": "3dc6d32e-9600-44ac-98be-0a758fac1d7f"
+    },
+    {
+      "name": "ARQUITETURA E URBANISMO",
+      "redacao": 3.0,
+      "math": 2.0,
+      "language": 2.0,
+      "human": 2.0,
+      "nature": 1.0,
+      "universityId": "3dc6d32e-9600-44ac-98be-0a758fac1d7f"
+    },
+    {
+      "name": "ARQUIVOLOGIA",
+      "redacao": 2.0,
+      "math": 1.0,
+      "language": 3.0,
+      "human": 3.0,
+      "nature": 1.0,
+      "universityId": "3dc6d32e-9600-44ac-98be-0a758fac1d7f"
+    },
+    {
+      "name": "ARTES CÊNICAS - INTERPRETAÇÃO TEATRAL",
+      "redacao": 3.0,
+      "math": 1.0,
+      "language": 3.0,
+      "human": 2.0,
+      "nature": 1.0,
+      "universityId": "3dc6d32e-9600-44ac-98be-0a758fac1d7f"
+    },
+    {
+      "name": "ABI - ARTES PLÁSTICAS - Diurno",
+      "redacao": 3.0,
+      "math": 1.0,
+      "language": 3.0,
+      "human": 2.0,
+      "nature": 1.0,
+      "universityId": "3dc6d32e-9600-44ac-98be-0a758fac1d7f"
+    },
+    {
+      "name": "ABI - ARTES PLÁSTICAS - Noturno",
+      "redacao": 3.0,
+      "math": 1.0,
+      "language": 3.0,
+      "human": 2.0,
+      "nature": 1.0,
+      "universityId": "3dc6d32e-9600-44ac-98be-0a758fac1d7f"
+    },
+    {
+      "name": "BIBLIOTECONOMIA E DOCUMENTAÇÃO",
+      "redacao": 2.0,
+      "math": 1.0,
+      "language": 3.0,
+      "human": 3.0,
+      "nature": 1.0,
+      "universityId": "3dc6d32e-9600-44ac-98be-0a758fac1d7f"
+    },
+    {
+      "name": "BIOTECNOLOGIA",
+      "redacao": 3.0,
+      "math": 2.0,
+      "language": 2.0,
+      "human": 1.0,
+      "nature": 2.0,
+      "universityId": "3dc6d32e-9600-44ac-98be-0a758fac1d7f"
+    },
+    {
+      "name": "CANTO",
+      "redacao": 3.0,
+      "math": 1.0,
+      "language": 3.0,
+      "human": 2.0,
+      "nature": 1.0,
+      "universityId": "3dc6d32e-9600-44ac-98be-0a758fac1d7f"
+    },
+    {
+      "name": "CIÊNCIA DA COMPUTAÇÃO",
+      "redacao": 2.0,
+      "math": 4.0,
+      "language": 2.0,
+      "human": 1.0,
+      "nature": 1.0,
+      "universityId": "3dc6d32e-9600-44ac-98be-0a758fac1d7f"
+    },
+    {
+      "name": "ABI - CIÊNCIAS BIOLÓGICAS",
+      "redacao": 3.0,
+      "math": 1.0,
+      "language": 2.0,
+      "human": 1.0,
+      "nature": 3.0,
+      "universityId": "3dc6d32e-9600-44ac-98be-0a758fac1d7f"
+    },
+    {
+      "name": "CIÊNCIAS CONTÁBEIS - Diurno",
+      "redacao": 2.0,
+      "math": 3.0,
+      "language": 2.0,
+      "human": 2.0,
+      "nature": 1.0,
+      "universityId": "3dc6d32e-9600-44ac-98be-0a758fac1d7f"
+    },
+    {
+      "name": "CIÊNCIAS CONTÁBEIS - Noturno",
+      "redacao": 2.0,
+      "math": 3.0,
+      "language": 2.0,
+      "human": 2.0,
+      "nature": 1.0,
+      "universityId": "3dc6d32e-9600-44ac-98be-0a758fac1d7f"
+    },
+    {
+      "name": "CIÊNCIAS ECONÔMICAS",
+      "redacao": 2.0,
+      "math": 3.0,
+      "language": 2.0,
+      "human": 2.0,
+      "nature": 1.0,
+      "universityId": "3dc6d32e-9600-44ac-98be-0a758fac1d7f"
+    },
+    {
+      "name": "ABI - CIÊNCIAS SOCIAIS",
+      "redacao": 2.0,
+      "math": 1.0,
+      "language": 3.0,
+      "human": 3.0,
+      "nature": 1.0,
+      "universityId": "3dc6d32e-9600-44ac-98be-0a758fac1d7f"
+    },
+    {
+      "name": "CINEMA E AUDIOVISUAL",
+      "redacao": 3.0,
+      "math": 1.0,
+      "language": 3.0,
+      "human": 2.0,
+      "nature": 1.0,
+      "universityId": "3dc6d32e-9600-44ac-98be-0a758fac1d7f"
+    },
+    {
+      "name": "COMPOSIÇÃO E REGÊNCIA",
+      "redacao": 3.0,
+      "math": 1.0,
+      "language": 3.0,
+      "human": 2.0,
+      "nature": 1.0,
+      "universityId": "3dc6d32e-9600-44ac-98be-0a758fac1d7f"
+    },
+    {
+      "name": "DANÇA",
+      "redacao": 3.0,
+      "math": 1.0,
+      "language": 3.0,
+      "human": 2.0,
+      "nature": 1.0,
+      "universityId": "3dc6d32e-9600-44ac-98be-0a758fac1d7f"
+    },
+    {
+      "name": "DESIGN",
+      "redacao": 3.0,
+      "math": 2.0,
+      "language": 2.0,
+      "human": 2.0,
+      "nature": 1.0,
+      "universityId": "3dc6d32e-9600-44ac-98be-0a758fac1d7f"
+    },
+    {
+      "name": "DIREITO - Diurno",
+      "redacao": 2.5,
+      "math": 1.0,
+      "language": 3.0,
+      "human": 2.5,
+      "nature": 1.0,
+      "universityId": "3dc6d32e-9600-44ac-98be-0a758fac1d7f"
+    },
+    {
+      "name": "DIREITO - Noturno",
+      "redacao": 2.5,
+      "math": 1.0,
+      "language": 3.0,
+      "human": 2.5,
+      "nature": 1.0,
+      "universityId": "3dc6d32e-9600-44ac-98be-0a758fac1d7f"
+    },
+    {
+      "name": "LICENCIATURA EM EDUCAÇÃO FÍSICA",
+      "redacao": 2.0,
+      "math": 1.0,
+      "language": 3.0,
+      "human": 2.0,
+      "nature": 2.0,
+      "universityId": "3dc6d32e-9600-44ac-98be-0a758fac1d7f"
+    },
+    {
+      "name": "ENFERMAGEM",
+      "redacao": 3.0,
+      "math": 1.0,
+      "language": 2.0,
+      "human": 1.0,
+      "nature": 3.0,
+      "universityId": "3dc6d32e-9600-44ac-98be-0a758fac1d7f"
+    },
+    {
+      "name": "ABI - ENGENHARIA",
+      "redacao": 2.0,
+      "math": 4.0,
+      "language": 1.0,
+      "human": 1.0,
+      "nature": 2.0,
+      "universityId": "3dc6d32e-9600-44ac-98be-0a758fac1d7f"
+    },
+    {
+      "name": "ESTATÍSTICA",
+      "redacao": 2.0,
+      "math": 4.0,
+      "language": 2.0,
+      "human": 1.0,
+      "nature": 1.0,
+      "universityId": "3dc6d32e-9600-44ac-98be-0a758fac1d7f"
+    },
+    {
+      "name": "ESTUDOS DE GÊNERO E DIVERSIDADE",
+      "redacao": 2.0,
+      "math": 1.0,
+      "language": 2.0,
+      "human": 4.0,
+      "nature": 1.0,
+      "universityId": "3dc6d32e-9600-44ac-98be-0a758fac1d7f"
+    },
+    {
+      "name": "FARMÁCIA - Diurno",
+      "redacao": 3.0,
+      "math": 2.0,
+      "language": 2.0,
+      "human": 1.0,
+      "nature": 2.0,
+      "universityId": "3dc6d32e-9600-44ac-98be-0a758fac1d7f"
+    },
+    {
+      "name": "FARMÁCIA - Noturno",
+      "redacao": 3.0,
+      "math": 2.0,
+      "language": 2.0,
+      "human": 1.0,
+      "nature": 2.0,
+      "universityId": "3dc6d32e-9600-44ac-98be-0a758fac1d7f"
+    },
+    {
+      "name": "ABI - FILOSOFIA",
+      "redacao": 3.0,
+      "math": 1.0,
+      "language": 2.0,
+      "human": 3.0,
+      "nature": 1.0,
+      "universityId": "3dc6d32e-9600-44ac-98be-0a758fac1d7f"
+    },
+    {
+      "name": "ABI - FÍSICA",
+      "redacao": 2.0,
+      "math": 4.0,
+      "language": 2.0,
+      "human": 1.0,
+      "nature": 1.0,
+      "universityId": "3dc6d32e-9600-44ac-98be-0a758fac1d7f"
+    },
+    {
+      "name": "FISIOTERAPIA",
+      "redacao": 2.0,
+      "math": 1.0,
+      "language": 2.0,
+      "human": 2.0,
+      "nature": 3.0,
+      "universityId": "3dc6d32e-9600-44ac-98be-0a758fac1d7f"
+    },
+    {
+      "name": "FONOAUDIOLOGIA",
+      "redacao": 3.0,
+      "math": 1.0,
+      "language": 3.0,
+      "human": 1.0,
+      "nature": 2.0,
+      "universityId": "3dc6d32e-9600-44ac-98be-0a758fac1d7f"
+    },
+    {
+      "name": "GASTRONOMIA",
+      "redacao": 2.5,
+      "math": 1.5,
+      "language": 2.5,
+      "human": 2.5,
+      "nature": 1.0,
+      "universityId": "3dc6d32e-9600-44ac-98be-0a758fac1d7f"
+    },
+    {
+      "name": "ABI - GEOGRAFIA",
+      "redacao": 2.0,
+      "math": 2.0,
+      "language": 2.0,
+      "human": 3.0,
+      "nature": 1.0,
+      "universityId": "3dc6d32e-9600-44ac-98be-0a758fac1d7f"
+    },
+    {
+      "name": "GEOLOGIA",
+      "redacao": 2.0,
+      "math": 2.0,
+      "language": 2.0,
+      "human": 1.0,
+      "nature": 3.0,
+      "universityId": "3dc6d32e-9600-44ac-98be-0a758fac1d7f"
+    },
+    {
+      "name": "ABI - HISTÓRIA",
+      "redacao": 2.0,
+      "math": 1.0,
+      "language": 3.0,
+      "human": 3.0,
+      "nature": 1.0,
+      "universityId": "3dc6d32e-9600-44ac-98be-0a758fac1d7f"
+    },
+    {
+      "name": "INSTRUMENTO",
+      "redacao": 3.0,
+      "math": 1.0,
+      "language": 3.0,
+      "human": 2.0,
+      "nature": 1.0,
+      "universityId": "3dc6d32e-9600-44ac-98be-0a758fac1d7f"
+    },
+    {
+      "name": "JORNALISMO",
+      "redacao": 3.0,
+      "math": 1.0,
+      "language": 3.0,
+      "human": 2.0,
+      "nature": 1.0,
+      "universityId": "3dc6d32e-9600-44ac-98be-0a758fac1d7f"
+    },
+    {
+      "name": "ABI - LETRAS VERNÁCULAS - Matutino",
+      "redacao": 3.0,
+      "math": 1.0,
+      "language": 3.0,
+      "human": 2.0,
+      "nature": 1.0,
+      "universityId": "3dc6d32e-9600-44ac-98be-0a758fac1d7f"
+    },
+    {
+      "name": "ABI - LETRAS VERNÁCULAS - Noturno",
+      "redacao": 3.0,
+      "math": 1.0,
+      "language": 3.0,
+      "human": 2.0,
+      "nature": 1.0,
+      "universityId": "3dc6d32e-9600-44ac-98be-0a758fac1d7f"
+    },
+    {
+      "name": "ABI - LETRAS VERNÁCULAS E LÍNGUA ESTRANGEIRA MODERNA",
+      "redacao": 3.0,
+      "math": 1.0,
+      "language": 3.0,
+      "human": 2.0,
+      "nature": 1.0,
+      "universityId": "3dc6d32e-9600-44ac-98be-0a758fac1d7f"
+    },
+    {
+      "name": "LETRAS - LÍNGUA ESTRANGEIRA MODERNA OU CLÁSSICA",
+      "redacao": 3.0,
+      "math": 1.0,
+      "language": 3.0,
+      "human": 2.0,
+      "nature": 1.0,
+      "universityId": "3dc6d32e-9600-44ac-98be-0a758fac1d7f"
+    },
+    {
+      "name": "ABI - LÍNGUA ESTRANGEIRA",
+      "redacao": 3.0,
+      "math": 1.0,
+      "language": 3.0,
+      "human": 2.0,
+      "nature": 1.0,
+      "universityId": "3dc6d32e-9600-44ac-98be-0a758fac1d7f"
+    },
+    {
+      "name": "MATEMÁTICA",
+      "redacao": 2.0,
+      "math": 4.0,
+      "language": 2.0,
+      "human": 1.0,
+      "nature": 1.0,
+      "universityId": "3dc6d32e-9600-44ac-98be-0a758fac1d7f"
+    },
+    {
+      "name": "MEDICINA",
+      "redacao": 3.0,
+      "math": 1.0,
+      "language": 2.0,
+      "human": 1.0,
+      "nature": 3.0,
+      "universityId": "3dc6d32e-9600-44ac-98be-0a758fac1d7f"
+    },
+    {
+      "name": "MEDICINA VETERINÁRIA",
+      "redacao": 3.0,
+      "math": 2.0,
+      "language": 2.0,
+      "human": 1.0,
+      "nature": 2.0,
+      "universityId": "3dc6d32e-9600-44ac-98be-0a758fac1d7f"
+    },
+    {
+      "name": "MUSEOLOGIA",
+      "redacao": 3.0,
+      "math": 1.0,
+      "language": 2.0,
+      "human": 3.0,
+      "nature": 1.0,
+      "universityId": "3dc6d32e-9600-44ac-98be-0a758fac1d7f"
+    },
+    {
+      "name": "MÚSICA POPULAR",
+      "redacao": 3.0,
+      "math": 1.0,
+      "language": 3.0,
+      "human": 2.0,
+      "nature": 1.0,
+      "universityId": "3dc6d32e-9600-44ac-98be-0a758fac1d7f"
+    },
+    {
+      "name": "NUTRIÇÃO",
+      "redacao": 3.0,
+      "math": 1.0,
+      "language": 2.0,
+      "human": 1.0,
+      "nature": 3.0,
+      "universityId": "3dc6d32e-9600-44ac-98be-0a758fac1d7f"
+    },
+    {
+      "name": "OCEANOGRAFIA",
+      "redacao": 2.0,
+      "math": 2.0,
+      "language": 2.0,
+      "human": 1.0,
+      "nature": 3.0,
+      "universityId": "3dc6d32e-9600-44ac-98be-0a758fac1d7f"
+    },
+    {
+      "name": "ODONTOLOGIA",
+      "redacao": 3.0,
+      "math": 1.0,
+      "language": 2.0,
+      "human": 1.0,
+      "nature": 3.0,
+      "universityId": "3dc6d32e-9600-44ac-98be-0a758fac1d7f"
+    },
+    {
+      "name": "PEDAGOGIA - Diurno",
+      "redacao": 3.0,
+      "math": 1.0,
+      "language": 3.0,
+      "human": 2.0,
+      "nature": 1.0,
+      "universityId": "3dc6d32e-9600-44ac-98be-0a758fac1d7f"
+    },
+    {
+      "name": "PEDAGOGIA - Noturno",
+      "redacao": 3.0,
+      "math": 1.0,
+      "language": 3.0,
+      "human": 2.0,
+      "nature": 1.0,
+      "universityId": "3dc6d32e-9600-44ac-98be-0a758fac1d7f"
+    },
+    {
+      "name": "PRODUÇÃO CULTURAL",
+      "redacao": 3.0,
+      "math": 1.0,
+      "language": 3.0,
+      "human": 2.0,
+      "nature": 1.0,
+      "universityId": "3dc6d32e-9600-44ac-98be-0a758fac1d7f"
+    },
+    {
+      "name": "PSICOLOGIA",
+      "redacao": 3.0,
+      "math": 1.0,
+      "language": 2.0,
+      "human": 3.0,
+      "nature": 1.0,
+      "universityId": "3dc6d32e-9600-44ac-98be-0a758fac1d7f"
+    },
+    {
+      "name": "ABI - QUÍMICA",
+      "redacao": 2.0,
+      "math": 3.0,
+      "language": 1.0,
+      "human": 1.0,
+      "nature": 3.0,
+      "universityId": "3dc6d32e-9600-44ac-98be-0a758fac1d7f"
+    },
+    {
+      "name": "SAÚDE COLETIVA - Diurno",
+      "redacao": 2.5,
+      "math": 1.5,
+      "language": 2.5,
+      "human": 2.5,
+      "nature": 1.0,
+      "universityId": "3dc6d32e-9600-44ac-98be-0a758fac1d7f"
+    },
+    {
+      "name": "SAÚDE COLETIVA - Noturno",
+      "redacao": 2.5,
+      "math": 1.5,
+      "language": 2.5,
+      "human": 2.5,
+      "nature": 1.0,
+      "universityId": "3dc6d32e-9600-44ac-98be-0a758fac1d7f"
+    },
+    {
+      "name": "SECRETARIADO EXECUTIVO",
+      "redacao": 3.0,
+      "math": 1.0,
+      "language": 3.0,
+      "human": 2.0,
+      "nature": 1.0,
+      "universityId": "3dc6d32e-9600-44ac-98be-0a758fac1d7f"
+    },
+    {
+      "name": "SERVIÇO SOCIAL",
+      "redacao": 2.0,
+      "math": 1.0,
+      "language": 3.0,
+      "human": 3.0,
+      "nature": 1.0,
+      "universityId": "3dc6d32e-9600-44ac-98be-0a758fac1d7f"
+    },
+    {
+      "name": "SISTEMAS DE INFORMAÇÃO",
+      "redacao": 2.0,
+      "math": 4.0,
+      "language": 2.0,
+      "human": 1.0,
+      "nature": 1.0,
+      "universityId": "3dc6d32e-9600-44ac-98be-0a758fac1d7f"
+    },
+    {
+      "name": "ZOOTECNIA",
+      "redacao": 3.0,
+      "math": 2.0,
+      "language": 2.0,
+      "human": 1.0,
+      "nature": 2.0,
+      "universityId": "3dc6d32e-9600-44ac-98be-0a758fac1d7f"
+    },
+    {
+      "name": "BACHARELADO INTERDISCIPLINAR EM ARTES - Diurno",
+      "redacao": 2.5,
+      "math": 1.5,
+      "language": 2.5,
+      "human": 2.5,
+      "nature": 1.0,
+      "universityId": "3dc6d32e-9600-44ac-98be-0a758fac1d7f"
+    },
+    {
+      "name": "BACHARELADO INTERDISCIPLINAR EM ARTES - Noturno",
+      "redacao": 2.5,
+      "math": 1.5,
+      "language": 2.5,
+      "human": 2.5,
+      "nature": 1.0,
+      "universityId": "3dc6d32e-9600-44ac-98be-0a758fac1d7f"
+    },
+    {
+      "name": "BACHARELADO INTERDISCIPLINAR EM CIÊNCIA E TECNOLOGIA - Diurno",
+      "redacao": 2.0,
+      "math": 3.0,
+      "language": 2.0,
+      "human": 1.0,
+      "nature": 2.0,
+      "universityId": "3dc6d32e-9600-44ac-98be-0a758fac1d7f"
+    },
+    {
+      "name": "BACHARELADO INTERDISCIPLINAR EM CIÊNCIA E TECNOLOGIA - Noturno",
+      "redacao": 2.0,
+      "math": 3.0,
+      "language": 2.0,
+      "human": 1.0,
+      "nature": 2.0,
+      "universityId": "3dc6d32e-9600-44ac-98be-0a758fac1d7f"
+    },
+    {
+      "name": "BACHARELADO INTERDISCIPLINAR EM HUMANIDADES - Diurno",
+      "redacao": 3.0,
+      "math": 1.0,
+      "language": 3.0,
+      "human": 2.0,
+      "nature": 1.0,
+      "universityId": "3dc6d32e-9600-44ac-98be-0a758fac1d7f"
+    },
+    {
+      "name": "BACHARELADO INTERDISCIPLINAR EM HUMANIDADES - Noturno",
+      "redacao": 3.0,
+      "math": 1.0,
+      "language": 3.0,
+      "human": 2.0,
+      "nature": 1.0,
+      "universityId": "3dc6d32e-9600-44ac-98be-0a758fac1d7f"
+    },
+    {
+      "name": "BACHARELADO INTERDISCIPLINAR EM SAÚDE - Diurno",
+      "redacao": 3.0,
+      "math": 1.0,
+      "language": 2.0,
+      "human": 2.0,
+      "nature": 2.0,
+      "universityId": "3dc6d32e-9600-44ac-98be-0a758fac1d7f"
+    },
+    {
+      "name": "BACHARELADO INTERDISCIPLINAR EM SAÚDE - Noturno",
+      "redacao": 3.0,
+      "math": 1.0,
+      "language": 2.0,
+      "human": 2.0,
+      "nature": 2.0,
+      "universityId": "3dc6d32e-9600-44ac-98be-0a758fac1d7f"
+    },
+    {
+      "name": "ENGENHARIA DE AGRIMENSURA E CARTOGRÁFICA",
+      "redacao": 2.0,
+      "math": 4.0,
+      "language": 1.0,
+      "human": 1.0,
+      "nature": 2.0,
+      "universityId": "3dc6d32e-9600-44ac-98be-0a758fac1d7f"
+    }
+  ]
+}

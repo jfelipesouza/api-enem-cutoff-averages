@@ -1,11 +1,8 @@
 import type { Request, Response } from "express";
 import { Router } from "express";
-import { UniversityService } from "../service/UniversityService";
-import { stat } from "node:fs";
+import { UniversityRepository } from "../repository/UniversityRepository";
 
 const universityController = Router();
-
-const service = new UniversityService();
 
 // Teste de rota principal
 universityController.get("/", (req: Request, res: Response) => {
@@ -18,6 +15,8 @@ universityController.get("/", (req: Request, res: Response) => {
 universityController.get(
   "/getAllUniversity",
   async (req: Request, res: Response) => {
+    const service = new UniversityRepository();
+
     const skip = req.query.skip ? Number(req.query.skip) : 0;
     const take = req.query.take ? Number(req.query.take) : 10;
 
@@ -30,16 +29,26 @@ universityController.get(
 
 // Salvar uma universidade
 universityController.post("/create", async (req: Request, res: Response) => {
+  const universityRepository = new UniversityRepository();
+
   const { name } = req.body;
 
-  if (name === "" || name === null) {
+  if (name.trim() === "" || name === null) {
     res.status(400).send({
       error: "Bad Request",
       message: "Name is required",
     });
   }
-  console.log({ name });
-  res.status(201).send();
+
+  const hasCreated = await universityRepository.create(name.trim());
+  if (hasCreated) {
+    res.status(201).send();
+    return;
+  }
+  res.status(400).send({
+    error: "Bad Request",
+    message: "University alread existing",
+  });
 });
 
 export { universityController };
