@@ -4,7 +4,6 @@ import { prisma } from "libs/prisma";
 const cousersController = Router();
 
 // Buscar Curso
-
 cousersController.get("/findAll", async (req: Request, res: Response) => {
   if (Object.keys(req.query).length === 0) {
     res.status(400).send({ message: "Invalid request", error: "Bad Request" });
@@ -59,7 +58,6 @@ cousersController.get("/findAll", async (req: Request, res: Response) => {
 });
 
 // Criar Curso
-
 cousersController.post("/create", async (req: Request, res: Response) => {
   const { name, redacao, math, language, human, nature, universityId } =
     req.body;
@@ -123,7 +121,6 @@ cousersController.post("/create", async (req: Request, res: Response) => {
 });
 
 // Criar varios Cursos
-
 cousersController.post("/createMany", async (req: Request, res: Response) => {
   const { data } = req.body;
   if (data === "null") {
